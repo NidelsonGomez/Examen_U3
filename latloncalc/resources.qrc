@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/latloncalc" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
